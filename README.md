@@ -14,8 +14,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Code Solutions](https://github.com/olusesimrg/qr-code-component.git)
-- Live Site URL: [Live Site](https://olusesimrg.github.io/qr-code-component/)
+- Solution URL: [Code Solutions](https://github.com/olusesimrg/flexbox-grid.git)
+- Live Site URL: [Live Site](https://olusesimrg.github.io/flexbox-grid/)
 
 ### Built with
 
